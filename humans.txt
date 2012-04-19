@@ -1,0 +1,20 @@
+
+ _____ _ _           _____ _                 _
+|  ___| | |         |_   _(_)               | |
+| |__ | | | _____     | |  _ _ __ ___     __| | ___   ___
+|  __|| | |/ / _ \    | | | | '_ ` _ \   / _` |/ _ \ / _ \
+| |___| |   < (_) |   | | | | | | | | | | (_| | (_) | (_) |
+\____/|_|_|\_\___/    \_/ |_|_| |_| |_|  \__,_|\___/ \___/
+
+/* TEAM */
+
+Chef: Nebojša Jakovljević.
+Site: nebjak [at] gmail.com, http://blog.nebjak.net.
+Twitter: @nebjak.
+Location: Novi Sad, Serbia.
+
+/* SITE */
+Last update: 2012/04/19
+Standards: HTML5, CSS3
+Components: PHP5, CoffeeScript, jQuery, Nivo Slider, simplyScroll v2, gs960.
+Software: Vim, Gimp.
