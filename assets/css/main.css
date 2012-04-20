@@ -34,6 +34,13 @@ p {
   border: none;
 }
 
+div.inline {
+  display: inline;
+  float: left;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 .container_12,
 .container_16,
 .container_24 {
@@ -95,6 +102,10 @@ p {
   text-align: justify;
   padding: 5px;
   margin: 0;
+}
+
+#content_box td {
+  padding-left: 5px;
 }
 
 #banner_box {
