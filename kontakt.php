@@ -48,8 +48,8 @@
             <tr>
               <td>Matični broj:</td>
               <td>17437852</td>
-            <tr>
             </tr>
+            <tr>
               <td>PIB:</td>
               <td>101492990</td>
             </tr>
@@ -59,11 +59,11 @@
             </tr>
             <tr>
               <td>Telefon:</td>
-              <td></td>
+              <td>+381 14 276599</td>
             </tr>
             <tr>
               <td>Faks:</td>
-              <td></td>
+              <td>+381 14 276189</td>
             </tr>
             <tr>
               <td>E-Mail:</td>
