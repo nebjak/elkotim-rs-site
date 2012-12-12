@@ -138,3 +138,36 @@ div.inline {
 .simply-scroll .simply-scroll-list li {
   width: 240px;
 }
+
+#side_menu {
+  margin: 20px 20px 20px 20px;
+}
+
+#side_menu ul {
+  list-style-type: none;
+}
+
+#side_menu li {
+  -webkit-transition: -webkit-transform ease-in-out 0.3s;
+  text-align: right;
+  padding-right: 10px;
+}
+
+#side_menu li:hover {
+  background-color: #fff;
+  color: #2d6e8c;
+  text-decoration: none;
+}
+
+#side_menu li:hover a {
+  display: block;
+  color: #2d6e8c;
+  text-decoration: none;
+}
+
+#side_menu li:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+  transform: scale(1.1);
+}
