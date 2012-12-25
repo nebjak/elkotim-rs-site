@@ -97,6 +97,29 @@ div.inline {
   min-height: 450px;
 }
 
+#content_box .thumbnail {
+  display: inline;
+  -webkit-transition: ease-in-out 0.3s;
+  -moz-transition: ease-in-out 0.3s;
+  -o-transition: ease-in-out 0.3s;
+  transition: ease-in-out 0.3s;
+  margin: 5px;
+  border: 5px solid #123;
+  width: 180px;
+  height: 267px;
+}
+
+#content_box .thumbnail:hover {
+  -webkit-transform: scale(1.03);
+  -moz-transform: scale(1.03);
+  -o-transform: scale(1.03);
+  transform: scale(1.03);
+}
+
+#content_box .colorbox a:hover {
+  text-decoration: none;
+}
+
 #content_box p {
   border: none;
   text-align: justify;

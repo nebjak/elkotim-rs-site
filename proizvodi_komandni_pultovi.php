@@ -1,9 +1,10 @@
 <?php require_once("assets/php/_constants.php"); ?>
+<?php require_once("assets/php/_helpers.php"); ?>
 <!DOCTYPE html>
 <html>
   <head>
     <? require_once("assets/php/_meta.php"); ?>
-    <title>Proizvodi <?= WEBSITE_TITLE ?></title>
+    <title>Komandni pultovi :: Proizvodi <?= WEBSITE_TITLE ?></title>
     <? require_once("assets/php/_stylesheet.php"); ?>
     <? require_once("assets/php/_javascript.php"); ?>
   </head>
@@ -28,12 +29,9 @@
       </div>
       <div class="clear"></div>
       <div class="grid_8" id="content_box">
-        <h2>Proizvodi</h2>
+        <h2>Komandni pultovi</h2>
         <p>
-          Sed ut perspiciatis unde omnis iste natus error sit 
-          voluptatem accusantium doloremque laudantium, totam rem 
-          aperiam, eaque ipsa quae ab illo inventore veritatis et 
-          quasi architecto beatae vitae dicta sunt explicabo.
+          <?= gen_gallery('assets/img/proizvodi/komandni_pultovi', 'Komandni pult') ?>
         </p>
       </div>
       <div class="grid_4" id="banner_box">
